@@ -2,7 +2,7 @@
 
 Ce projet est une application Node.js qui fournit des fonctionnalités d'interaction avec l'API Logora de modération. Il inclut des routes pour obtenir des prédictions de modération et des scores de qualité basés sur le contenu textuel.
 
-### `Note`: les routes `POST /api/moderation/predict` et `POST /api/moderation/score` ont été implémenté mais ne sont pas disponible sur notre API.
+### `Note`: les routes `POST /api/moderation/predict` et `POST /api/moderation/score` ont été implémentées mais ne sont pas disponibles sur notre API.
 
 ## Installation
 
