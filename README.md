@@ -18,7 +18,7 @@ Cette application est conçue pour modérer automatiquement les contenus en util
 
 Vous pouvez regarder les images du répertoire '/app/assets/images' pour obtenir des exemples d'utilisation.
 
-## Tests
+## Tests Unitaires
 
 Exécutez les tests avec la commande 'rspec' dans le terminal depuis la racine du projet. Les tests sont situés dans le repertoire '/spec/models'.
 
